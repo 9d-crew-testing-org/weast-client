@@ -16,8 +16,8 @@ Client for connecting and retrieving data from the WEAST Intellistar 2 data serv
 
 1. Download this repository as a `.zip` file  
 2. Extract the contents to a folder
-3. Install all dependences with pip
-4. Run `compile.bat`  
+3. Install pip packages `requests` and `paho-mqtt`
+4. Run `build-encoder.bat` 
 
 The compiled executable will be generated in the `dist/` directory.
 
